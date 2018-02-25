@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://K:\DocumentosModulo\HACIENDO\JuegoAndroid-master\Juego.iml" filepath="K:\DocumentosModulo\HACIENDO\JuegoAndroid-master\Juego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JuegoAndroid-master.iml" filepath="$PROJECT_DIR$/JuegoAndroid-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://K:\DocumentosModulo\HACIENDO\JuegoAndroid-master\app\app.iml" filepath="K:\DocumentosModulo\HACIENDO\JuegoAndroid-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
